@@ -135,4 +135,4 @@ var User = function (_React$Component3) {
   return User;
 }(React.Component);
 
-ReactDom.render(React.createElement(App, null), document.getElementById('root'));
+ReactDOM.render(React.createElement(App, null), document.getElementById('root'));

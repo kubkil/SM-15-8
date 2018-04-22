@@ -62,7 +62,7 @@ class User extends React.Component {
   }
 }
 
-ReactDom.render(
+ReactDOM.render(
   <App />,
   document.getElementById('root')
 );
