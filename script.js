@@ -65,4 +65,4 @@ class User extends React.Component {
 ReactDom.render(
   <App />,
   document.getElementById('root')
-)
+);
